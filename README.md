@@ -38,7 +38,7 @@ This mod addresses frustrating UI quirks in the original Microsoft Store version
 ## 🛠️ Installation & Usage
 
 ### Option 1: Standalone / Portable
-1. Download the latest `EdgeDrop-Mod-win-x64.zip` from the [Releases](https://github.com/) page.
+1. Download the latest `EdgeDrop-Mod-win-x64.zip` from the [Releases](https://github.com/Just0DJ/EdgeDrop-Mod/releases) page.
 2. Extract to your desired folder (e.g. `C:\Users\%USERNAME%\Dev\EdgeDrop-Mod` or `C:\Program Files\EdgeDrop-Mod`).
 3. Run `Edge-Drop mod.exe`.
 
