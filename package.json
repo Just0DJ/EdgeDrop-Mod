@@ -1,0 +1,11 @@
+{
+  "name": "edgedrop-mod",
+  "version": "0.4.0",
+  "type": "module",
+  "scripts": {
+    "test": "node test_state_machine.js"
+  },
+  "dependencies": {
+    "@electron/asar": "^4.3.2"
+  }
+}

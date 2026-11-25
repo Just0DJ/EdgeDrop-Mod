@@ -1,0 +1,29 @@
+# Large Electron runtime binaries (Distributed via GitHub Releases)
+*.exe
+*.dll
+*.pak
+*.dat
+*.bin
+*.html
+*.json.bak
+*.orig
+
+# Chromium directories
+locales/
+resources/
+vk_swiftshader_icd.json
+
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Build outputs & installers
+dist/
+build/
+*.zip
+*.msi
+
+# OS metadata
+Thumbs.db
+[Ee]xternal/
+.DS_Store
